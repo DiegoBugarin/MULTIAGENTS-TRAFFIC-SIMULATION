@@ -1,0 +1,4004 @@
+{
+  "traffic": [
+    {
+      "id": "Light3",
+      "state": 4,
+      "step": 0
+    },
+    {
+      "id": "Light0",
+      "state": 4,
+      "step": 0
+    },
+    {
+      "id": "Light2",
+      "state": 4,
+      "step": 0
+    },
+    {
+      "id": "Light1",
+      "state": 4,
+      "step": 0
+    },
+    {
+      "id": "Light3",
+      "state": 4,
+      "step": 1
+    },
+    {
+      "id": "Light0",
+      "state": 4,
+      "step": 1
+    },
+    {
+      "id": "Light2",
+      "state": 4,
+      "step": 1
+    },
+    {
+      "id": "Light1",
+      "state": 4,
+      "step": 1
+    },
+    {
+      "id": "Light3",
+      "state": 4,
+      "step": 2
+    },
+    {
+      "id": "Light0",
+      "state": 4,
+      "step": 2
+    },
+    {
+      "id": "Light2",
+      "state": 4,
+      "step": 2
+    },
+    {
+      "id": "Light1",
+      "state": 4,
+      "step": 2
+    },
+    {
+      "id": "Light3",
+      "state": 4,
+      "step": 3
+    },
+    {
+      "id": "Light0",
+      "state": 4,
+      "step": 3
+    },
+    {
+      "id": "Light2",
+      "state": 4,
+      "step": 3
+    },
+    {
+      "id": "Light1",
+      "state": 4,
+      "step": 3
+    },
+    {
+      "id": "Light3",
+      "state": 4,
+      "step": 4
+    },
+    {
+      "id": "Light0",
+      "state": 4,
+      "step": 4
+    },
+    {
+      "id": "Light2",
+      "state": 4,
+      "step": 4
+    },
+    {
+      "id": "Light1",
+      "state": 4,
+      "step": 4
+    },
+    {
+      "id": "Light3",
+      "state": 4,
+      "step": 5
+    },
+    {
+      "id": "Light0",
+      "state": 4,
+      "step": 5
+    },
+    {
+      "id": "Light2",
+      "state": 4,
+      "step": 5
+    },
+    {
+      "id": "Light1",
+      "state": 4,
+      "step": 5
+    },
+    {
+      "id": "Light3",
+      "state": 4,
+      "step": 6
+    },
+    {
+      "id": "Light0",
+      "state": 4,
+      "step": 6
+    },
+    {
+      "id": "Light2",
+      "state": 4,
+      "step": 6
+    },
+    {
+      "id": "Light1",
+      "state": 4,
+      "step": 6
+    },
+    {
+      "id": "Light3",
+      "state": 4,
+      "step": 7
+    },
+    {
+      "id": "Light0",
+      "state": 4,
+      "step": 7
+    },
+    {
+      "id": "Light2",
+      "state": 4,
+      "step": 7
+    },
+    {
+      "id": "Light1",
+      "state": 4,
+      "step": 7
+    },
+    {
+      "id": "Light3",
+      "state": 4,
+      "step": 8
+    },
+    {
+      "id": "Light0",
+      "state": 4,
+      "step": 8
+    },
+    {
+      "id": "Light2",
+      "state": 4,
+      "step": 8
+    },
+    {
+      "id": "Light1",
+      "state": 4,
+      "step": 8
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 9
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 9
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 9
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 9
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 10
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 10
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 10
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 10
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 11
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 11
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 11
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 11
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 12
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 12
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 12
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 12
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 13
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 13
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 13
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 13
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 14
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 14
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 14
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 14
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 15
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 15
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 15
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 15
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 16
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 16
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 16
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 16
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 17
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 17
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 17
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 17
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 18
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 18
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 18
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 18
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 19
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 19
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 19
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 19
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 20
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 20
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 20
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 20
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 21
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 21
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 21
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 21
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 22
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 22
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 22
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 22
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 23
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 23
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 23
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 23
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 24
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 24
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 24
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 24
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 25
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 25
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 25
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 25
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 26
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 26
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 26
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 26
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 27
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 27
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 27
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 27
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 28
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 28
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 28
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 28
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 29
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 29
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 29
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 29
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 30
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 30
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 30
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 30
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 31
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 31
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 31
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 31
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 32
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 32
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 32
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 32
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 33
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 33
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 33
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 33
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 34
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 34
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 34
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 34
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 35
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 35
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 35
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 35
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 36
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 36
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 36
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 36
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 37
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 37
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 37
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 37
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 38
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 38
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 38
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 38
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 39
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 39
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 39
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 39
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 40
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 40
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 40
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 40
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 41
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 41
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 41
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 41
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 42
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 42
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 42
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 42
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 43
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 43
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 43
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 43
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 44
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 44
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 44
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 44
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 45
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 45
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 45
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 45
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 46
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 46
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 46
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 46
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 47
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 47
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 47
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 47
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 48
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 48
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 48
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 48
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 49
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 49
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 49
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 49
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 50
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 50
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 50
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 50
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 51
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 51
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 51
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 51
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 52
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 52
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 52
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 52
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 53
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 53
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 53
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 53
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 54
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 54
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 54
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 54
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 55
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 55
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 55
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 55
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 56
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 56
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 56
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 56
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 57
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 57
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 57
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 57
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 58
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 58
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 58
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 58
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 59
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 59
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 59
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 59
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 60
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 60
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 60
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 60
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 61
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 61
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 61
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 61
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 62
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 62
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 62
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 62
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 63
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 63
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 63
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 63
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 64
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 64
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 64
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 64
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 65
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 65
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 65
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 65
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 66
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 66
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 66
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 66
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 67
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 67
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 67
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 67
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 68
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 68
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 68
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 68
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 69
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 69
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 69
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 69
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 70
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 70
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 70
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 70
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 71
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 71
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 71
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 71
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 72
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 72
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 72
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 72
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 73
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 73
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 73
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 73
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 74
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 74
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 74
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 74
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 75
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 75
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 75
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 75
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 76
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 76
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 76
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 76
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 77
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 77
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 77
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 77
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 78
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 78
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 78
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 78
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 79
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 79
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 79
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 79
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 80
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 80
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 80
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 80
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 81
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 81
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 81
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 81
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 82
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 82
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 82
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 82
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 83
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 83
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 83
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 83
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 84
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 84
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 84
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 84
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 85
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 85
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 85
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 85
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 86
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 86
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 86
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 86
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 87
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 87
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 87
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 87
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 88
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 88
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 88
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 88
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 89
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 89
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 89
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 89
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 90
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 90
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 90
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 90
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 91
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 91
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 91
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 91
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 92
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 92
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 92
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 92
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 93
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 93
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 93
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 93
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 94
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 94
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 94
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 94
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 95
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 95
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 95
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 95
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 96
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 96
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 96
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 96
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 97
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 97
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 97
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 97
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 98
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 98
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 98
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 98
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 99
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 99
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 99
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 99
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 100
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 100
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 100
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 100
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 101
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 101
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 101
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 101
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 102
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 102
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 102
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 102
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 103
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 103
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 103
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 103
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 104
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 104
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 104
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 104
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 105
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 105
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 105
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 105
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 106
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 106
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 106
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 106
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 107
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 107
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 107
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 107
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 108
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 108
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 108
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 108
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 109
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 109
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 109
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 109
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 110
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 110
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 110
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 110
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 111
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 111
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 111
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 111
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 112
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 112
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 112
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 112
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 113
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 113
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 113
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 113
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 114
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 114
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 114
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 114
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 115
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 115
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 115
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 115
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 116
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 116
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 116
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 116
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 117
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 117
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 117
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 117
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 118
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 118
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 118
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 118
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 119
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 119
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 119
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 119
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 120
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 120
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 120
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 120
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 121
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 121
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 121
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 121
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 122
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 122
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 122
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 122
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 123
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 123
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 123
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 123
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 124
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 124
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 124
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 124
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 125
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 125
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 125
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 125
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 126
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 126
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 126
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 126
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 127
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 127
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 127
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 127
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 128
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 128
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 128
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 128
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 129
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 129
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 129
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 129
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 130
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 130
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 130
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 130
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 131
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 131
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 131
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 131
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 132
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 132
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 132
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 132
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 133
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 133
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 133
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 133
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 134
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 134
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 134
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 134
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 135
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 135
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 135
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 135
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 136
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 136
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 136
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 136
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 137
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 137
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 137
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 137
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 138
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 138
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 138
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 138
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 139
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 139
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 139
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 139
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 140
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 140
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 140
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 140
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 141
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 141
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 141
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 141
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 142
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 142
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 142
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 142
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 143
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 143
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 143
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 143
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 144
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 144
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 144
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 144
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 145
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 145
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 145
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 145
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 146
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 146
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 146
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 146
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 147
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 147
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 147
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 147
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 148
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 148
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 148
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 148
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 149
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 149
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 149
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 149
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 150
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 150
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 150
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 150
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 151
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 151
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 151
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 151
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 152
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 152
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 152
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 152
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 153
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 153
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 153
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 153
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 154
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 154
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 154
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 154
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 155
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 155
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 155
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 155
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 156
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 156
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 156
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 156
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 157
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 157
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 157
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 157
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 158
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 158
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 158
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 158
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 159
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 159
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 159
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 159
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 160
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 160
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 160
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 160
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 161
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 161
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 161
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 161
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 162
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 162
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 162
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 162
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 163
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 163
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 163
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 163
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 164
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 164
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 164
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 164
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 165
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 165
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 165
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 165
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 166
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 166
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 166
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 166
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 167
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 167
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 167
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 167
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 168
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 168
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 168
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 168
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 169
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 169
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 169
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 169
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 170
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 170
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 170
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 170
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 171
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 171
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 171
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 171
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 172
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 172
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 172
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 172
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 173
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 173
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 173
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 173
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 174
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 174
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 174
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 174
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 175
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 175
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 175
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 175
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 176
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 176
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 176
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 176
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 177
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 177
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 177
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 177
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 178
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 178
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 178
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 178
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 179
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 179
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 179
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 179
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 180
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 180
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 180
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 180
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 181
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 181
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 181
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 181
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 182
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 182
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 182
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 182
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 183
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 183
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 183
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 183
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 184
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 184
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 184
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 184
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 185
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 185
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 185
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 185
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 186
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 186
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 186
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 186
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 187
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 187
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 187
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 187
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 188
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 188
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 188
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 188
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 189
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 189
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 189
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 189
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 190
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 190
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 190
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 190
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 191
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 191
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 191
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 191
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 192
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 192
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 192
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 192
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 193
+    },
+    {
+      "id": "Light0",
+      "state": 3,
+      "step": 193
+    },
+    {
+      "id": "Light2",
+      "state": 3,
+      "step": 193
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 193
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 194
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 194
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 194
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 194
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 195
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 195
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 195
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 195
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 196
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 196
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 196
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 196
+    },
+    {
+      "id": "Light3",
+      "state": 2,
+      "step": 197
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 197
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 197
+    },
+    {
+      "id": "Light1",
+      "state": 2,
+      "step": 197
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 198
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 198
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 198
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 198
+    },
+    {
+      "id": "Light3",
+      "state": 3,
+      "step": 199
+    },
+    {
+      "id": "Light0",
+      "state": 2,
+      "step": 199
+    },
+    {
+      "id": "Light2",
+      "state": 2,
+      "step": 199
+    },
+    {
+      "id": "Light1",
+      "state": 3,
+      "step": 199
+    }
+  ]
+}
